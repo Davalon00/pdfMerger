@@ -1,6 +1,3 @@
-Here's a sample README in Markdown format for your code:
-
-```markdown
 # PDF Merger Script
 
 This Python script merges multiple PDF files from a specified folder into a single PDF file. It uses the `PyPDF2` library to handle the merging process.
